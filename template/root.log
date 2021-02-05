@@ -1,0 +1,76 @@
+2021-02-04 13:43:36,932 - automation.sensor - INFO - Box Exit connected to pin 3
+2021-02-04 13:43:37,145 - automation.sensor - INFO - Box Exit2 connected to pin 2
+2021-02-04 13:43:37,359 - automation.sensor - INFO - Box Enter connected to pin 1
+2021-02-04 13:43:37,562 - automation.sensor - INFO - Box Fill connected to pin 0
+2021-02-04 13:54:19,063 - automation.sensor - INFO - Box Exit connected to pin 3
+2021-02-04 13:54:19,277 - automation.sensor - INFO - Box Exit2 connected to pin 2
+2021-02-04 13:54:19,491 - automation.sensor - INFO - Box Enter connected to pin 1
+2021-02-04 13:54:19,704 - automation.sensor - INFO - Box Fill connected to pin 0
+2021-02-04 13:54:58,125 - automation.sensor - INFO - Box Exit connected to pin 3
+2021-02-04 13:54:58,337 - automation.sensor - INFO - Box Exit2 connected to pin 2
+2021-02-04 13:54:58,553 - automation.sensor - INFO - Box Enter connected to pin 1
+2021-02-04 13:54:58,768 - automation.sensor - INFO - Box Fill connected to pin 0
+2021-02-04 13:55:23,954 - automation.sensor - INFO - Box Exit connected to pin 3
+2021-02-04 13:55:24,167 - automation.sensor - INFO - Box Exit2 connected to pin 2
+2021-02-04 13:55:24,380 - automation.sensor - INFO - Box Enter connected to pin 1
+2021-02-04 13:55:24,593 - automation.sensor - INFO - Box Fill connected to pin 0
+2021-02-04 13:55:45,980 - automation.sensor - INFO - Box Exit connected to pin 3
+2021-02-04 13:55:46,184 - automation.sensor - INFO - Box Exit2 connected to pin 2
+2021-02-04 13:55:46,397 - automation.sensor - INFO - Box Enter connected to pin 1
+2021-02-04 13:55:46,611 - automation.sensor - INFO - Box Fill connected to pin 0
+2021-02-04 13:56:43,185 - automation.sensor - INFO - Box Exit connected to pin 3
+2021-02-04 13:56:43,397 - automation.sensor - INFO - Box Exit2 connected to pin 2
+2021-02-04 13:56:43,610 - automation.sensor - INFO - Box Enter connected to pin 1
+2021-02-04 13:56:43,822 - automation.sensor - INFO - Box Fill connected to pin 0
+2021-02-04 13:56:47,199 - automation.estop - INFO - Estop connected
+2021-02-04 13:57:02,012 - automation.sensor - INFO - Box Exit connected to pin 3
+2021-02-04 13:57:02,225 - automation.sensor - INFO - Box Exit2 connected to pin 2
+2021-02-04 13:57:02,438 - automation.sensor - INFO - Box Enter connected to pin 1
+2021-02-04 13:57:02,650 - automation.sensor - INFO - Box Fill connected to pin 0
+2021-02-04 13:57:03,765 - automation.estop - INFO - Estop connected
+2021-02-04 13:57:03,809 - automation.estop - INFO - 192.168.7.2 received estop message b'false'
+2021-02-04 13:57:25,949 - automation.sensor - INFO - Box Exit connected to pin 3
+2021-02-04 13:57:26,162 - automation.sensor - INFO - Box Exit2 connected to pin 2
+2021-02-04 13:57:26,365 - automation.sensor - INFO - Box Enter connected to pin 1
+2021-02-04 13:57:26,579 - automation.sensor - INFO - Box Fill connected to pin 0
+2021-02-04 13:57:27,687 - automation.estop - INFO - Estop connected
+2021-02-04 13:57:27,731 - automation.estop - INFO - 192.168.7.2 received estop message b'false'
+2021-02-04 13:57:56,368 - automation.sensor - INFO - Box Exit connected to pin 3
+2021-02-04 13:57:56,580 - automation.sensor - INFO - Box Exit2 connected to pin 2
+2021-02-04 13:57:56,785 - automation.sensor - INFO - Box Enter connected to pin 1
+2021-02-04 13:57:56,998 - automation.sensor - INFO - Box Fill connected to pin 0
+2021-02-04 13:57:58,090 - automation.estop - INFO - Estop connected
+2021-02-04 13:57:58,133 - automation.estop - INFO - 192.168.7.2 received estop message b'false'
+2021-02-04 13:58:19,358 - automation.sensor - INFO - Box Exit connected to pin 3
+2021-02-04 13:58:19,571 - automation.sensor - INFO - Box Exit2 connected to pin 2
+2021-02-04 13:58:19,786 - automation.sensor - INFO - Box Enter connected to pin 1
+2021-02-04 13:58:19,989 - automation.sensor - INFO - Box Fill connected to pin 0
+2021-02-04 13:58:21,092 - automation.estop - INFO - Estop connected
+2021-02-04 13:58:21,136 - automation.estop - INFO - 192.168.7.2 received estop message b'false'
+2021-02-04 13:59:17,203 - automation.sensor - INFO - Box Exit connected to pin 3
+2021-02-04 13:59:17,414 - automation.sensor - INFO - Box Exit2 connected to pin 2
+2021-02-04 13:59:17,628 - automation.sensor - INFO - Box Enter connected to pin 1
+2021-02-04 13:59:17,843 - automation.sensor - INFO - Box Fill connected to pin 0
+2021-02-04 13:59:18,943 - automation.estop - INFO - Estop connected
+2021-02-04 13:59:18,986 - automation.estop - INFO - 192.168.7.2 received estop message b'false'
+2021-02-04 14:00:29,195 - automation.sensor - INFO - Box Exit connected to pin 3
+2021-02-04 14:00:29,400 - automation.sensor - INFO - Box Exit2 connected to pin 2
+2021-02-04 14:00:29,601 - automation.sensor - INFO - Box Enter connected to pin 1
+2021-02-04 14:00:29,815 - automation.sensor - INFO - Box Fill connected to pin 0
+2021-02-04 14:00:30,911 - automation.estop - INFO - Estop connected
+2021-02-04 14:00:30,955 - automation.estop - INFO - 192.168.7.2 received estop message b'false'
+2021-02-04 14:00:52,679 - automation.sensor - INFO - Box Exit connected to pin 3
+2021-02-04 14:00:52,883 - automation.sensor - INFO - Box Exit2 connected to pin 2
+2021-02-04 14:00:53,086 - automation.sensor - INFO - Box Enter connected to pin 1
+2021-02-04 14:00:53,300 - automation.sensor - INFO - Box Fill connected to pin 0
+2021-02-04 14:00:54,416 - automation.estop - INFO - Estop connected
+2021-02-04 14:00:54,460 - automation.estop - INFO - 192.168.7.2 received estop message b'false'
+2021-02-04 14:01:59,976 - automation.sensor - INFO - Box Exit connected to pin 3
+2021-02-04 14:02:06,399 - automation.sensor - INFO - Box Exit2 connected to pin 2
+2021-02-04 14:02:07,708 - automation.sensor - INFO - Box Enter connected to pin 1
+2021-02-04 14:02:20,205 - automation.sensor - INFO - Box Exit connected to pin 3
+2021-02-04 14:02:20,417 - automation.sensor - INFO - Box Exit2 connected to pin 2
+2021-02-04 14:02:20,633 - automation.sensor - INFO - Box Enter connected to pin 1
+2021-02-04 14:02:20,846 - automation.sensor - INFO - Box Fill connected to pin 0
+2021-02-04 14:02:21,951 - automation.estop - INFO - Estop connected
+2021-02-04 14:02:21,995 - automation.estop - INFO - 192.168.7.2 received estop message b'false'

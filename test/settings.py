@@ -1,0 +1,10 @@
+from automation.MachineMotion import DIRECTION
+
+DEFAULT_SPEED = 100
+DEFAULT_ACCELERATION = 500
+
+DEFAULT_DIRECTION = DIRECTION.POSITIVE
+
+AXIS_1_CONFIG = {"axis":1, "uStep":8, "direction":DIRECTION.POSITIVE}
+AXIS_2_CONFIG = {"axis":2, "uStep":8, "direction":DIRECTION.POSITIVE}
+AXIS_3_CONFIG = {"axis":3, "uStep":8, "direction":DIRECTION.POSITIVE}
