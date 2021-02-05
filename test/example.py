@@ -1,8 +1,7 @@
-
+import sys 
 import threading
 from time import sleep
 import time
-import sys
 import inspect
 from collections import deque
 
